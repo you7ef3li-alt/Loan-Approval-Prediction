@@ -1,0 +1,18 @@
+2026-07-26 21:06:21,259 - Loan prediction models executed successfully.
+2026-07-26 21:06:21,268 - Logistic Regression Accuracy: 0.7986
+2026-07-26 21:06:21,277 - Decision Tree Accuracy: 0.9778
+2026-07-26 21:15:44,349 - Loan prediction models executed successfully.
+2026-07-26 21:15:44,354 - Logistic Regression Accuracy: 0.7986
+2026-07-26 21:15:44,397 - Decision Tree Accuracy: 0.9778
+2026-07-26 21:25:30,710 - Loan prediction models executed successfully.
+2026-07-26 21:25:30,715 - Logistic Regression Accuracy: 0.7986
+2026-07-26 21:25:30,723 - Decision Tree Accuracy: 0.9778
+2026-07-26 21:35:42,852 - Loan prediction models executed successfully.
+2026-07-26 21:35:42,859 - Logistic Regression Accuracy: 0.7986
+2026-07-26 21:35:42,863 - Decision Tree Accuracy: 0.9778
+2026-07-26 21:49:28,308 - Loan prediction models executed successfully.
+2026-07-26 21:49:28,318 - Logistic Regression Accuracy: 0.7986
+2026-07-26 21:49:28,335 - Decision Tree Accuracy: 0.9778
+2026-07-26 22:01:14,157 - Loan prediction models executed successfully.
+2026-07-26 22:01:14,173 - Logistic Regression Accuracy: 0.7986
+2026-07-26 22:01:14,182 - Decision Tree Accuracy: 0.9778
